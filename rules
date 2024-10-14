@@ -1,0 +1,12 @@
+twitch.tv##.top-nav__prime
+twitch.tv###root > div.Layout-sc-1xcs6mc-0.ehcMTF > div.Layout-sc-1xcs6mc-0.lcpZLv:first-child > nav.InjectLayout-sc-1i43xsx-0.kjjhRA.top-nav:first-child > div.Layout-sc-1xcs6mc-0.jqCeVt.top-nav__menu > div.Layout-sc-1xcs6mc-0.jdpzyl:last-child > div.Layout-sc-1xcs6mc-0.czRfnU:nth-child(5)
+twitch.tv###root > div.Layout-sc-1xcs6mc-0.ehcMTF > div.Layout-sc-1xcs6mc-0.lcpZLv:first-child > nav.InjectLayout-sc-1i43xsx-0.kjjhRA.top-nav:first-child > div.Layout-sc-1xcs6mc-0.jqCeVt.top-nav__menu > div.Layout-sc-1xcs6mc-0.jdpzyl:last-child > div.Layout-sc-1xcs6mc-0.czRfnU:nth-child(6)
+twitch.tv###root > div.Layout-sc-1xcs6mc-0.ehcMTF > div.Layout-sc-1xcs6mc-0.lcpZLv:first-child > div.Layout-sc-1xcs6mc-0.dShujj:nth-child(2) > div:first-child
+twitch.tv###live-channel-stream-information > div.Layout-sc-1xcs6mc-0.hcJbOK > div.Layout-sc-1xcs6mc-0.haGrcr > div.Layout-sc-1xcs6mc-0.dRGOOY:last-child > div.Layout-sc-1xcs6mc-0.iuRyub > div.Layout-sc-1xcs6mc-0.evfzyg:last-child > div.Layout-sc-1xcs6mc-0.denZNh.metadata-layout__support:first-child > div.Layout-sc-1xcs6mc-0.ccVkYh:nth-child(2) > div.Layout-sc-1xcs6mc-0.fGJyEH > div.Layout-sc-1xcs6mc-0.kITeBB:last-child
+twitch.tv###offline-channel-main-content > div.Layout-sc-1xcs6mc-0.dehlJN.home-header-sticky:nth-child(2) > div.Layout-sc-1xcs6mc-0.dGvaUO:first-child > div.Layout-sc-1xcs6mc-0.xxjeD:last-child > div.Layout-sc-1xcs6mc-0.fGJyEH:first-child > div.Layout-sc-1xcs6mc-0.kITeBB:last-child
+new.reddit.com###SHORTCUT_FOCUSABLE_DIV > div:last-child
+new.reddit.com##._24UNt1hkbrZxLzs5vkvuDh
+youtube.com###items > yt-related-chip-cloud-renderer.style-scope.ytd-watch-next-secondary-results-renderer:first-child
+www.youtube.com##ytd-browse ytd-grid-video-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"]:upward(ytd-item-section-renderer)
