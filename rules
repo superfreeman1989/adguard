@@ -13,3 +13,5 @@ www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer ytd
 
 !hide horizontal story bar on following page
 www.twitch.tv##[class^='Layout-']:has(> .scrollable-area h2)
+
+eveeye.com###ui-nag
