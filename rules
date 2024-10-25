@@ -15,3 +15,6 @@ www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer ytd
 www.twitch.tv##[class^='Layout-']:has(> .scrollable-area h2)
 
 eveeye.com###ui-nag
+
+! Oct 24, 2024 https://www.reddit.com
+www.reddit.com##alert-controller
