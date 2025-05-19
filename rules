@@ -20,4 +20,7 @@ eveeye.com###ui-nag
 www.reddit.com##alert-controller
 
 ! Google AI
-google.com##.hdzaWe
+google.com##.YzCcne
+
+amazon.*###nav-flyout-ewc, #nav-flyout-anchor
+amazon.*##body:style(padding-right: 0px !important)
