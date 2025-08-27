@@ -19,8 +19,8 @@ eveeye.com###ui-nag
 ! Oct 24, 2024 https://www.reddit.com
 www.reddit.com##alert-controller
 
-! Google AI
-google.com##.YzCcne
-
 amazon.*###nav-flyout-ewc, #nav-flyout-anchor
 amazon.*##body:style(padding-right: 0px !important)
+
+! Aug 27, 2025 https://zh.wikipedia.org
+wikipedia.org##.vector-sitenotice-container
